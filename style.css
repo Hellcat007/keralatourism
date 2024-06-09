@@ -1,0 +1,229 @@
+.tip2 {background: #fbfffb;;
+height: 70px;width: 100%;
+}
+body{margin: 0px;}
+.gods {
+    height: 65px;
+    width: 92px;
+    padding-left: 263px;
+    padding-top: 5px;
+}
+    .alleppey
+    img{height: 660px;width: 100%;}
+    .alleppey h1 {position: absolute;top: 70%;
+    left: 50%;
+transform: translate(-50%,-50%);
+color: #11320d;
+font-family:'Times New Roman', Times, serif;
+font-weight: bolder;}
+.nav2 ul{
+    float: right;
+    padding-top: 14px;
+}
+.nav2 li{
+    display: inline-block;
+    list-style: none;
+}
+.nav2 li a{
+    font-size: medium;
+    text-transform: uppercase;
+    padding: 0px 30px;
+    color: #11320d;
+    font-weight: bold;
+    text-decoration: none;
+    font-family:'Times New Roman', Times, serif;
+}
+.box a{
+    background: green;
+    background-color: rgb(9, 75, 25);
+    color: #fbfffb;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 7px 11px;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 20px;
+    text-decoration: none;
+
+}
+.box {    position: absolute;
+    top: 461px;
+    left: 445px;}
+    .munnar h1
+    {color: rgb(8, 9, 9);
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-decoration-color: #1df106;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 50px;
+    font-size: xx-large;
+}
+.destiny img{
+    position: absolute;
+    top: 879px;
+    left: 24px;
+    display: inline;
+    height: 133px;
+    width: 218px;   
+}
+.destiny h3{
+    padding-left: 20px;
+}
+ .destiny1 {
+    position: relative;
+ }
+ .destiny1 img{
+
+ position: absolute;
+    top: -3px;
+    left: 329px;
+    display: inline;
+    height: 133px;
+    width: 218px;
+ }
+ .destiny1 p{    padding-left: 328px;
+    position: absolute;
+    bottom: 1px;
+    font-weight: 900;
+
+ }
+ .destiny2 {position: relative;}
+ .destiny2 img{
+    position: absolute;
+    top: 230px;
+    left: 24px;
+    height: 133px;
+    width: 218px;
+ }
+.destiny2 h3{
+    position: absolute;
+    padding-left: 21px;
+    top: 171px;
+}
+.destiny3 img{
+    position: absolute;
+    top: 1114px;
+    left: 329px;
+    height: 133px;
+    width: 218px;
+}
+.destiny3 h3{
+    position: absolute;
+    padding-left: 330px;
+    top: 1057px;
+}
+.about {
+    position: relative;
+    
+}
+ .kerala h1{
+    right: 85px;
+    top: 413px;
+    float: right;
+    text-decoration: underline;
+    text-decoration-color: #1df106;
+    position: absolute;
+    font-family: revert-layer;
+    font-weight: 900;
+    font-size: x-large
+}
+.kerala img{
+    height: 313px;
+    width: 224px;
+    float: right;
+    position: relative;
+    top: 491px;
+    right: 81px;
+}
+.descript{
+    padding-right: 126px;
+    text-align: justify;
+    margin: 1px 200px 0;
+    position: absolute;
+    top: 494px;
+    right: 65px;
+    left: -162px
+}
+.Districts{
+    text-decoration: underline;
+    text-decoration-color: #1df106;
+    position: absolute;
+    top: 1732px;
+    left: 500px   
+}
+.districts {
+    display: ruby-text;
+    padding: 80px 30px 0px 30px ;
+    text-align: center;
+    justify-content: space-evenly;
+}
+.districts .images {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 4px solid green;
+    overflow: hidden;
+    
+}
+.images img{
+    object-position: center;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+
+}
+.districts {
+    margin-top: 880px;
+}
+.form1 {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: rgb(252, 251, 251);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgb(3, 96, 34);
+    font-family: Arial, Helvetica, sans-serif;
+    height: 400px;
+    margin: 0;
+    width: 300px;
+    position: absolute;
+    left: 485px;
+    margin-top: 35px;
+}
+.form1 label{
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.form1 h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0ba947;
+}
+.form1 input{
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    font-size: 16px;
+    border: none;
+    background: none;
+    outline: none;
+    border-bottom: 1.25px solid #444744;
+}
+.foot p{
+    padding: 40%;
+}
+.footer1 p{
+    text-align: center;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+
+footer {
+    padding-top: 480px;
+}
+.ind{
+    background-color: #11320d;
+    width: 100%;
+    height: 100px;
+}
